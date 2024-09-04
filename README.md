@@ -1,4 +1,4 @@
-<h1 align="center">Sign Language Recognition (SLR)</h1>
+<h1 align="center">🤟 Sign Language Recognition (SLR)</h1>
 
 <p align="center">
     <a>LSTM model for ASL recognition built with TensorFlow and Mediapipe</a>‎ ‎ |‎ ‎ <a href="https://slr.jamesjbustos.com/">Demo</a>
