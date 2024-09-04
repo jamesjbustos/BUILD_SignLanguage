@@ -33,8 +33,8 @@ To run locally, follow these steps:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/jamesjbustos/asl-translator.git
-cd asl-translator/
+git clone https://github.com/jamesjbustos/sign-language-recognition.git
+cd asl-translator
 ```
 
 2. Dependencies:
